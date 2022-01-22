@@ -12,5 +12,5 @@
 [Link to Bugs📎](https://docs.google.com/spreadsheets/d/17nE7Icsq7IDSGZ7VCnwK0jmlcBvBc1m5s6z-MPC6QMg/edit#gid=1123997383 "Bugs")
 
 ## 📫 How to reach me
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/heueyehnsnm)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/mishatkachyk)
 [![Gmail](https://img.shields.io/badge/-mmikhail.tkachyk@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=ff0000)](https://docs.google.com/document/d/1DMxui8Zq5NOfBai5ukGCmcGrnaFMz3-Qjfd7F3F_2Y8/edit?usp=sharing)
